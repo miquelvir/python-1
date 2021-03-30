@@ -1,24 +1,28 @@
-"""
+# RECORDA ANAR A MAIN.PY PER CAMBIAR L'EXERCICI QUE S'EXECUTA AL CLICAR LA FLETXA VERDA
 
+"""
 Ja has après dues coses de Python:
 
     1. El statement print per ensenyar missatges a l'usuari
     2. Com fer comentaris
+    3. Els texts sempre van entre cometes: ""
 
-Are aprendràs a fer preguntes a l'usuari amb l'statement input.
+Are aprendràs què és una variable.
 """
 
-# això pregunta el nom a l'usuari i guarda la resposta
-name = input("what is your name? ")
+# les variables ens permeten guardar informació
+# després podem usar la informació que hem guardat a la variable només amb el nom
 
-# ara, com que hem guardat la resposta a la variable 'name', podem imprimir el que hem guardat
-print(name)
+some_text = "this is some text"  # guardem un text en una variable que es diu some_text
+print(some_text)  # i podem imprimir el text que hem guardat a la variable
 
-# clica a "run" (fletxa verda) i repon la pregunta!
+# un altre exemple:
 
+my_name = "mark"  # guardem una paraula a la variable my_name
+print(my_name)  # i podem imprimir el text que hi hem guardat
 
-# EXERCISE 3.0 - 2 MARKS
-# 1. Pregunta la ciutat on viu a l'usuari
-# 2. Imprimeix la ciutat on viu
+# EXERCISE - 1 MARK
+# imprimeix el text que hem guardat a la variable següent!
+# HINT: fer print("Barcelona") no és la solució!
 
-
+city = "Barcelona"
