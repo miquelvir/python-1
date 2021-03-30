@@ -7,7 +7,7 @@ EXERCISE - 4 MARKS
     1. Pregunta a l'usuari un text.
     2. Imprimeix el text que ha dit (l'original).
     3. Imprimeix el text que ha dit, però cambia totes les 'a' per 'i'.
-    4. Imprimeix el text que ha dit, però cambia tots els 'hi' per 'bye'.
+    4. Imprimeix el text que ha dit, però cambia tots els 'hello' per 'bye'.
 
 
     EXEMPLES
