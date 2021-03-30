@@ -17,8 +17,7 @@ print(name)  # com que hem guardat la resposta de l'usuari a la variable name, p
 
 # clica a run (fletxa verda) i repon la pregunta!
 
-# EXERCISE - 2 MARKS
+# EXERCISE
 # 1. Pregunta la ciutat on viu a l'usuari
 # 2. Imprimeix la ciutat on viu
-
 

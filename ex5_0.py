@@ -23,4 +23,6 @@ print(fixed_text)
 # 2. Imprimeix el text que ha dit.
 # 3. Imprimeix el text que ha dit, però cambia totes les 'a' per 'i'.
 
-
+src = input()
+print(src)
+print(src.replace('a', 'i'))
