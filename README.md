@@ -45,7 +45,11 @@ Un llenguatge de programació dels molts que existeixen.
     - un programa de censura +18
     - una calculadora
 - A l'esquerra de la pantalla, si estàs a [repl.it](https://repl.it/) (hauries), tens els diversos exercicis d'aquest bloc.
-- Entra el primer exercici (`ex1.py`)!
+- Entra el primer exercici (`ex1_0.py`)!
+- Quan acabis tots els exercicis, per entregar:
+    - ves a la pestanya "version control"
+    - afegeix un comentari
+    - clica "commit & push"
 
 ## 📚  recursos 
 Si necessites ajuda...

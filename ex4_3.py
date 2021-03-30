@@ -23,6 +23,6 @@ EXERCISE 4.3 - 3 MARKS
 
     Per exemple, si escriu 2.5, el programa hauria d'imprimir:
         2.5
-        5
+        5.0
         1.25
 """

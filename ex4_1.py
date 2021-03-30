@@ -14,6 +14,15 @@ HINTS:
 """
 
 """
+HINTS:
+
+a Python podem multiplicar un número o dividir-lo així;
+
+x = 2 * 4  # x tindrà el resultat de 2 per 4 = 8
+y = 2 / 4  # x tindrà el resultat de 2 entre 4 = 0.5
+"""
+
+"""
 EXERCISE 4.1 - 3 MARKS
 
     1. Pregunta a l'usuari l'any que va néixer
